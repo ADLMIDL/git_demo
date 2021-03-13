@@ -3,19 +3,9 @@ wall of shields
 standing strog
 on this their chosen battle field
 
-<<<<<<< HEAD
-sword and spear
-wall of shields
-standing strog
-on this their chosen battle field
 
 sword and spear
 wall of shields
 standing strog
 on this their chosen battle field
--------------------------------------------
-=======
-Form the lnes
-Shield by shield
 
->>>>>>> bdea436dca1e482656ac248f6cdca88fcc670ad0
